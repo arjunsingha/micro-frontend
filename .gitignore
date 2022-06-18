@@ -1,0 +1,13 @@
+./node_modules
+
+./cart/node_modules
+./cart/dist
+
+./home/node_modules
+./home/dist
+
+./pdp/node_modules
+./pdp/dist
+
+./server/node_modules
+./server/dist
